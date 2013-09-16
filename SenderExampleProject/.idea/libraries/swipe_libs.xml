@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="swipe-libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../android/swipe-libs/achartengine-0.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../android/swipe-libs/acra-4.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../android/swipe-libs/android-query.0.25.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../android/swipe-libs/android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../android/swipe-libs/androidmarketapi-0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../android/swipe-libs/commons-codec-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../android/swipe-libs/commons-lang3-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../android/swipe-libs/ksnetlib.android.v1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../android/swipe-libs/SwipeHandler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../android/swipe-libs/SwipeUtils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../android/swipe-libs/woosimprinter_bt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
